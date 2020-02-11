@@ -1,7 +1,7 @@
 # Maj
 分享一些与麻将相关的东西
 
-## 蓝毛太太
+## 蓝毛的新手教程
 - [B站直播间](https://live.bilibili.com/104?from=search&seid=43902420115720967)
 - [麻将术语](https://www.bilibili.com/read/cv1875532)
 - [基础的牌效](https://www.bilibili.com/read/cv2112235)
