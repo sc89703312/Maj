@@ -20,3 +20,4 @@
 ## 理论
 - [知乎-如何系统的学习麻将](https://www.zhihu.com/question/27722775/answer/38050073?utm_source=wechat_session&utm_medium=social&utm_oi=683934126592233472)
 - [Seventh9日麻教程](https://github.com/sc89703312/Maj/blob/master/Seventh9%20%E6%97%A5%E9%BA%BB%E6%95%99%E7%A8%8B.pdf)
+- [现代麻雀技术理论](https://github.com/sc89703312/Maj/blob/master/%E7%8E%B0%E4%BB%A3%E9%BA%BB%E9%9B%80%E6%8A%80%E6%9C%AF%E8%AE%BA.pdf)
